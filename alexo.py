@@ -54,7 +54,10 @@ trainer.train(
     "chatterbot.corpus.spanish.conversations",
     "chatterbot.corpus.spanish.trivia",
     "./spring.yml",
-    "./chistes.yml"
+    "./chistes.yml",
+    "./futbol.yml",
+    "./cocina.yml",
+    "./literatura.yml"
 )
 #Imprimimos en consola un mensaje inicial
 print("¡Hola! Teclea algo para iniciar. Para salir presiona 'ctrl + c' o 'ctrl + d' ...")
