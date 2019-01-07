@@ -57,7 +57,8 @@ trainer.train(
     "./chistes.yml",
     "./futbol.yml",
     "./cocina.yml",
-    "./literatura.yml"
+    "./literatura.yml",
+    "./deportes.yml"
 )
 #Imprimimos en consola un mensaje inicial
 print("¡Hola! Teclea algo para iniciar. Para salir presiona 'ctrl + c' o 'ctrl + d' ...")
